@@ -1,6 +1,6 @@
 # Elevator-Sitch
 Two rival police officers compete to chase a thief on the run up an elevator. Shall they cooperate or scheme to steal the glory?
-
+![title screen](https://raw.githubusercontent.com/Lily-Ng/Elevator-Sitch/master/screenshot/title.PNG)
 Elevator Sitch is a 2-player mini game made in GameMaker Studio 2. A keyboard is required to play this game.
 **Please note that you must have a copy of GameMaker Studio 2 to build your first executable.**
 
